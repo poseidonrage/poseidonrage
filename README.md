@@ -1,3 +1,8 @@
+## Hey there :wave: 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=poseidonrage">
+ </p>
+
 - 👋 Hi, I’m @poseidonrage IRL Baqar Hussain, while gaming Harshmelllow 
 - 👀 I’m interested in Full Stack Software Development (.NET stack) eager to learn other stacks too
 - 🌱 I’m currently learning Web 3.0 and Metaverse Development
